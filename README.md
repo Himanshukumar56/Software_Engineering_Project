@@ -1,2 +1,2 @@
 # Software_Engineering_Project
-3rd Aug : Made GitHub Repo for the projetc.
+3rd Aug : Made GitHub Repo for the project.
