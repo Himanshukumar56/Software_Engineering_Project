@@ -1,8 +1,10 @@
 # Software Engineering Project
 
-## Repository Setup
-**Date:** 3rd August
+## Repository Setup **Date:** 3rd August
 
+<hr>
+
+**Date:** 7th August 
 ## Features
 ### Home Page
 - Welcome users and introduce the project's main features.
