@@ -1,18 +1,35 @@
-# Software_Engineering_Project
-3rd Aug : Made GitHub Repo for the project.
-Features :   
-  ->HomePage  
-  ->Hero Section(Choosing among diff options available)  
-     &nbsp;&nbsp;- College Academics  
-     &nbsp;&nbsp;- Web Dev  
-     &nbsp;&nbsp;- AI/ML  
-     &nbsp;&nbsp;- DSA    
-     &nbsp;&nbsp;- CP  
-     &nbsp;&nbsp;- Blockchain  
-     &nbsp;&nbsp;- CyberSecurity  
-     &nbsp;&nbsp;- Interview Prep  
-  ->Login/SignUp Section  
-  ->Student profile  
-  ->Admin Login  
-  ->Announcement  
-  
+# Software Engineering Project
+
+## Repository Setup
+**Date:** 3rd August
+
+## Features
+### Home Page
+- Welcome users and introduce the project's main features.
+
+### Hero Section
+- **Choosing among different options available:**
+  - College Academics
+  - Web Development
+  - AI/ML (Artificial Intelligence and Machine Learning)
+  - DSA (Data Structures and Algorithms)
+  - CP (Competitive Programming)
+  - Blockchain
+  - CyberSecurity
+  - Interview Preparation
+
+### Login/SignUp Section
+- User authentication for accessing personalized features.
+
+### Student Profile
+- Manage and view individual student profiles.
+
+### Admin Login
+- Special access for administrators to manage the platform.
+
+### Announcements
+- Section for posting important updates and information.
+
+---
+
+Feel free to contribute to this project by creating issues, submitting pull requests, or providing feedback!
